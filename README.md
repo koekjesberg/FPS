@@ -6,7 +6,7 @@ Dit is mijn FPS spel waar ik aan het werken ben...
 # Druk op "Movement.exe" om het te spelen.
 # LET OP: Het spel is in "Querty".
 
-Dit zijn de controls:
-A: neem een health potion, dit maakt je levens weer vol.
+# Dit zijn de controls:
+# A: neem een health potion, dit maakt je levens weer vol.
  
-Je kan de mouse sensitivity aanpassen door op E en R te drukken: E doet je mouse sensitivity omhoog, en R omlaag.
+# Je kan de mouse sensitivity aanpassen door op E en R te drukken: E doet je mouse sensitivity omhoog, en R omlaag.
