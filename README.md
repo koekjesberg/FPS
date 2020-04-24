@@ -8,5 +8,5 @@ Dit is mijn FPS spel waar ik aan het werken ben...
 
 Dit zijn de controls:
 A: neem een health potion, dit maakt je levens weer vol.
-
+ 
 Je kan de mouse sensitivity aanpassen door op E en R te drukken: E doet je mouse sensitivity omhoog, en R omlaag.
